@@ -1,0 +1,6 @@
+
+My Core Skills Are 
+
+JavaScript, TypeScript, PHP, Reactjs, Nextjs, TailwindCSS, Nodejs, Nestjs, Laravel, MongoDB, Postgresql
+
+
