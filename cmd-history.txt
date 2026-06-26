@@ -1,0 +1,45 @@
+1997  mkdir learn-git
+ 1998  l
+ 1999  clear
+ 2000  cd learn-git/
+ 2001  l
+ 2002  nano text.txt
+ 2003  l
+ 2004  git init
+ 2005  git add .
+ 2006  git commit -m "repo initialize"
+ 2007  git branch -M main 
+ 2008  git remote add origin git@github.com:Tanvir-Alam625/learn-git.git
+ 2009  git push origin mian 
+ 2010  git push origin main 
+ 2011  git checkout -b feat/personal-info
+ 2012  nano info.txt
+ 2013  gcp "added info file"
+ 2014  clear
+ 2015  l
+ 2016  nano text.txt
+ 2017  git add .
+ 2018  git commit -m "updated text file"
+ 2019  git push 
+ 2020  git checkout main 
+ 2021  git branch 
+ 2022  git merge feat/personal-info
+ 2023  git push 
+ 2024  git push -u origin main 
+ 2025  nano info.txt 
+ 2026  gcp "update text file from main "
+ 2027  git checkout feat/personal-info 
+ 2028  git pull origin main 
+ 2029  clear
+ 2030  nano info.txt 
+ 2031  gcp "info updated from personal-info branch "
+ 2032  git checkout main
+ 2033  nano info.txt 
+ 2034  gcp "info file add text from main branch "
+ 2035  git merge feat/personal-info 
+ 2036  nano info.txt 
+ 2037  gcp "merge conflict resolved info.txt file"
+ 2038  git checkout -b dev
+ 2039  nano skills.txt
+ 2040  gcp "added my skill in the skill.txt file"
+ 2041  history
