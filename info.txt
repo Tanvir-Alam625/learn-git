@@ -4,6 +4,8 @@ I am a Software Engineer
 
 I working over 3 year on  the industry
 
+This Again add more text from main branch
 
-This Again add more text from main branch 
+where again update from feat/personal-info branch
+
 update from main branch 
